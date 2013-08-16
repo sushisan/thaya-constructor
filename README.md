@@ -1,4 +1,4 @@
-thayra-constructor
+thaya-constructor
 ==================
 
-thayra-constructor
+thaya-constructor
